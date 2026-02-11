@@ -1,4 +1,4 @@
-# AI Pathfinding Algorithms
+# Tree-Based Search Algorithms
 Implementation and comparison of 6 tree-based search algorithms for robot navigation on grid environments.
 
 ## Overview
